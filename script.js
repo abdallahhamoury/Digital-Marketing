@@ -1,43 +1,43 @@
 
-// var username;
-// username = "Abdallah";
-// var myId = "hammoury";
-// var test = true;
-// var test = false;
+var username;
+username = "Abdallah";
+var myId = "hammoury";
+var test = true;
+var test = false;
 
-//  var lastnamee;
-// lastname = "hamomoury";
-
-
-
-// console.log(username);
-// console.log(lastname);
-
-// if (usrename = "Abdallah") {alert("hello")
-// }
-// else if (username != "Abdallah") {alert("again")
-// }
-
-
-// var x = 1;
+ var lastnamee;
+lastname = "hamomoury";
 
 
 
-// var y = "1";
+console.log(username);
+console.log(lastname);
+
+if (usrename = "Abdallah") {alert("hello")
+}
+else if (username != "Abdallah") {alert("again")
+}
+
+
+var x = 1;
+
+
+
+var y = "1";
 
 
 
 
 
-// console.log(y == x);
+console.log(y == x);
 
-// console.log(y == x);
+console.log(y == x);
 
 
 
-// console.log(y != x);
+console.log(y != x);
 
-// console.log(y !== x);
+console.log(y !== x);
 
 
 var age = 18;
